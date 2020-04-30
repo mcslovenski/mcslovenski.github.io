@@ -7,7 +7,7 @@
 
 ---
 [Analysis of Austin, TX Restaurant Inspection Scores and Weather](https://github.com/mcslovenski/wrangling-project)
-<img src="pdf/workflow.pdf"/>
+![wrangling project workflow image](pdf/workflow.pdf)
 
 ---
 [Technology Learning Blog](https://github.com/mcslovenski/learning-blog)
