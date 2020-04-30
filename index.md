@@ -7,18 +7,18 @@
 
 ---
 [Analysis of Austin, TX Restaurant Inspection Scores and Weather](https://github.com/mcslovenski/wrangling-project)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="pdf/workflow.pdf"/>
 
 ---
 [Technology Learning Blog](https://github.com/mcslovenski/learning-blog)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/awseducate-certificates.jpg?raw=true"/>
 
 ---
 
-## Index
+## Other Links
 
-- [Automating the Verification of Historically Underutilized Business (HUB) Status of Vendors for the Texas Department of Information Resources](http://example.com/)
-- [Analysis of Austin, TX Restaurant Inspection Scores and Weather](https://github.com/mcslovenski/wrangling-project)
+- [About Me](http://example.com/)
+- [Resume](pdf/mike-slovenski.pdf)
 - [Technology Learning Blog](https://github.com/mcslovenski/learning-blog)
 
 ---
