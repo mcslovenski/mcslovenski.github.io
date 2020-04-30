@@ -2,28 +2,24 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+[Automating the Verification of Historically Underutilized Business (HUB) Status of Vendors for the Texas Department of Information Resources](/capstone)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Analysis of Austin, TX Restaurant Inspection Scores and Weather](https://github.com/mcslovenski/wrangling-project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Technology Learning Blog](https://github.com/mcslovenski/learning-blog)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+## Index
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Automating the Verification of Historically Underutilized Business (HUB) Status of Vendors for the Texas Department of Information Resources](http://example.com/)
+- [Analysis of Austin, TX Restaurant Inspection Scores and Weather](https://github.com/mcslovenski/wrangling-project)
+- [Technology Learning Blog](https://github.com/mcslovenski/learning-blog)
 
 ---
 
