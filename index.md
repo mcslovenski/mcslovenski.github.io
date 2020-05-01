@@ -3,7 +3,7 @@
 ---
 
 [Automating the Verification of Historically Underutilized Business (HUB) Status of Vendors for the Texas Department of Information Resources](/capstone)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![centralized master bidders list search interface screencap image](images/cmbl_screencap.jpg)
 
 ---
 [Analysis of Austin, TX Restaurant Inspection Scores and Weather](https://github.com/mcslovenski/wrangling-project)
