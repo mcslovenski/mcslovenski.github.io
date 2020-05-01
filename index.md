@@ -7,17 +7,17 @@
 
 ---
 [Analysis of Austin, TX Restaurant Inspection Scores and Weather](https://github.com/mcslovenski/wrangling-project)
-![wrangling project workflow image](pdf/workflow.pdf)
+![wrangling project workflow image](images/workflow_image.png)
 
 ---
 [Technology Learning Blog](https://github.com/mcslovenski/learning-blog)
-<img src="images/awseducate-certificates.jpg?raw=true"/>
+![certifications screencap image](images/awseducate-certificates.jpg)
 
 ---
 
 ## Other Links
 
-- [About Me](http://example.com/)
+- [About Me](/about)
 - [Resume](pdf/mike-slovenski.pdf)
 - [Technology Learning Blog](https://github.com/mcslovenski/learning-blog)
 
