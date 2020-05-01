@@ -1,10 +1,10 @@
 title: Mike Slovenski # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/mike-slovenski-circle.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   University of Texas iSchool '20<br>
   Harvard University '15
-  <br><br>
-  <a href="https://www.linkedin.com/in/mike-slovenski/">View My LinkedIn Profile</a> 
+  <br>
+  <a href="https://www.linkedin.com/in/mike-slovenski/">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
